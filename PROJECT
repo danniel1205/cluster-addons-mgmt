@@ -1,0 +1,7 @@
+domain: x-k8s.io
+repo: github.com/danniel1205/cluster-addons-mgmt
+resources:
+- group: addons
+  kind: CertManagerAddon
+  version: v1alpha1
+version: "2"

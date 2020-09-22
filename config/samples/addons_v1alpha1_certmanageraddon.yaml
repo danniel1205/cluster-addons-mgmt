@@ -1,0 +1,7 @@
+apiVersion: addons.x-k8s.io/v1alpha1
+kind: CertManagerAddon
+metadata:
+  name: certmanageraddon-sample
+spec:
+  # Add fields here
+  channels: stable

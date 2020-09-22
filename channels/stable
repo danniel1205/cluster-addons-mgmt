@@ -1,0 +1,4 @@
+# Versions for the stable channel
+manifests:
+- name: certmanageraddon
+  version: 0.0.1
